@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+.venv/Lib
+venv
+allure-results
+allure-report
+.idea
+.pytest_cache
+video
+pycache/
+.vscode/
+.flake8
+.env
+.DS_Store
+local_*.*

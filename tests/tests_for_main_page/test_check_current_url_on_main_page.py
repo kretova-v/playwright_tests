@@ -1,7 +1,3 @@
-from playwright.sync_api import expect
-
-from conftest import main_page
-
 from data.url import Url
 
 
